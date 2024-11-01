@@ -4648,6 +4648,158 @@
 			)
 		)
 	)
+	(sheet
+		(at 24.13 156.21)
+		(size 57.15 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3289341a-be6a-409e-9b02-a5a3177ff3c8")
+		(property "Sheetname" "Sensors and Indicators"
+			(at 24.13 155.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "io.kicad_sch"
+			(at 24.13 178.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Electrium-Mobility-KiCad"
+				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 41.91)
+		(size 55.88 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "387acd0e-2ade-44fe-a2ba-7da096f9f16b")
+		(property "Sheetname" "Battery"
+			(at 22.86 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "battery.kicad_sch"
+			(at 22.86 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Electrium-Mobility-KiCad"
+				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 85.09)
+		(size 57.15 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4abe6688-8723-439a-80bf-c7c0ccf74c62")
+		(property "Sheetname" "USB and Programmer"
+			(at 22.86 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "programmer.kicad_sch"
+			(at 22.86 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Electrium-Mobility-KiCad"
+				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 124.46)
+		(size 57.15 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f2fa2ad5-5268-412d-853d-55fdf6efe6e1")
+		(property "Sheetname" "Motor"
+			(at 22.86 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor.kicad_sch"
+			(at 22.86 147.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Electrium-Mobility-KiCad"
+				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba"
+					(page "4")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
