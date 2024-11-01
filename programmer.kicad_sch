@@ -5,4 +5,14 @@
 	(uuid "36990da4-9bcd-415c-b216-9958e6eb89e3")
 	(paper "A4")
 	(lib_symbols)
+	(text "hello world!\n"
+		(exclude_from_sim no)
+		(at 94.234 93.218 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "93ecd132-ad48-4fcf-b731-cc7c31565adf")
+	)
 )
