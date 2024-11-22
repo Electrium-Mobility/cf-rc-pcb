@@ -386,6 +386,22 @@
     [
       "77cfd6b1-cf11-45d1-96c8-b00f1af024ba",
       "Root"
+    ],
+    [
+      "387acd0e-2ade-44fe-a2ba-7da096f9f16b",
+      "Battery"
+    ],
+    [
+      "4abe6688-8723-439a-80bf-c7c0ccf74c62",
+      "USB and Programmer"
+    ],
+    [
+      "f2fa2ad5-5268-412d-853d-55fdf6efe6e1",
+      "Motor"
+    ],
+    [
+      "3289341a-be6a-409e-9b02-a5a3177ff3c8",
+      "Sensors and Indicators"
     ]
   ],
   "text_variables": {}
