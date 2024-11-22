@@ -1494,6 +1494,190 @@
 				)
 			)
 		)
+		(symbol "Motor:Motor_DC"
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "M"
+				(at 2.54 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "Motor_DC"
+				(at 2.54 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 -2.286 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -2.286 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "DC Motor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "DC Motor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "PinHeader*P2.54mm* TerminalBlock*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Motor_DC_0_0"
+				(polyline
+					(pts
+						(xy -1.27 -3.302) (xy -1.27 0.508) (xy 0 -2.032) (xy 1.27 0.508) (xy 1.27 -3.302)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Motor_DC_0_1"
+				(circle
+					(center 0 -1.524)
+					(radius 3.2512)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -7.62) (xy 0 -7.112)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -4.7752) (xy 0 -5.1816)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.7272) (xy 0 2.0828)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.032) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Motor_DC_1_1"
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "RF_Module:ESP32-WROOM-32E"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -4523,16 +4707,6 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 109.22) (xy 92.71 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "de366856-7cb2-46c2-b4b1-ac109f157051")
-	)
-	(wire
-		(pts
 			(xy 22.86 99.06) (xy 22.86 101.6)
 		)
 		(stroke
@@ -4613,6 +4787,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 109.22) (xy 92.71 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6403c19-ed32-4ad1-b757-e583e3b36ba1")
+	)
+	(wire
+		(pts
 			(xy 31.75 96.52) (xy 31.75 99.06)
 		)
 		(stroke
@@ -4689,7 +4873,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "09773734-ef8a-4df0-a40a-a2f3b48dba37")
 		(property "Reference" "#PWR01"
 			(at 81.28 115.57 0)
@@ -4700,12 +4883,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Earth"
-			(at 81.28 114.3 0)
+		(property "Value" "GND"
+			(at 79.248 113.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -5095,7 +5279,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "??? Ohms"
+		(property "Value" "330 Ohms"
 			(at 14.986 82.042 0)
 			(effects
 				(font
@@ -5298,7 +5482,7 @@
 				)
 			)
 		)
-		(property "Value" "tbd"
+		(property "Value" "16000 Ohms"
 			(at 73.914 113.284 90)
 			(effects
 				(font
@@ -5425,7 +5609,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3e4f4df0-b82c-41e5-bdc1-4eedee4411c9")
 		(property "Reference" "C2"
 			(at 88.9 104.1399 0)
@@ -5436,8 +5619,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 88.9 106.6799 0)
+		(property "Value" "0.1 uF / 16V"
+			(at 89.408 107.696 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5495,7 +5678,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3f8a597d-20de-452d-a7d3-194c9b80e9db")
 		(property "Reference" "R IREF"
 			(at 77.47 100.33 90)
@@ -5505,8 +5687,8 @@
 				)
 			)
 		)
-		(property "Value" "~"
-			(at 78.7399 101.6 0)
+		(property "Value" "4k Ohms"
+			(at 81.534 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5641,7 +5823,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small_US"
+		(property "Value" "330 Ohms"
 			(at 25.4 86.3599 0)
 			(effects
 				(font
@@ -6667,7 +6849,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10 uF/16V"
 			(at 31.75 83.8199 0)
 			(effects
 				(font
@@ -6972,6 +7154,72 @@
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
+		(at 31.75 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fc5ca657-1511-432b-8a3d-95ecf378db0e")
+		(property "Reference" "#PWR06"
+			(at 31.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 29.718 110.998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 31.75 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 31.75 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e8e0f8f4-23c0-4ec3-86ad-c4d2aa30d595")
+		)
+		(instances
+			(project "Electrium-Mobility-KiCad"
+				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
