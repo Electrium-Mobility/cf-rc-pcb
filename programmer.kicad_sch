@@ -4061,7 +4061,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0784b090-2aef-4b0a-bf20-89b283e3b8c9")
-		(property "Reference" "C1"
+		(property "Reference" "C?"
 			(at 198.12 34.2899 0)
 			(effects
 				(font
@@ -4113,6 +4113,12 @@
 			(uuid "f699f883-bfa5-43e9-98b7-bc6b19c65608")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "C1")
@@ -4132,7 +4138,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c395ab5-5514-448c-95d1-65caaa37e789")
-		(property "Reference" "Q1"
+		(property "Reference" "Q?"
 			(at 191.77 140.9701 0)
 			(effects
 				(font
@@ -4190,6 +4196,12 @@
 			(uuid "63cd2988-5894-41c5-ac77-4eb2542c6454")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "Q?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "Q1")
@@ -4208,7 +4220,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c5ab152-81b5-44c4-af5f-4fc28db828c1")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR?"
 			(at 129.54 33.02 0)
 			(effects
 				(font
@@ -4256,6 +4268,12 @@
 			(uuid "043d9b07-738d-4f20-861a-313aa972e066")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR09")
@@ -4274,7 +4292,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c874f8f-e60c-46b7-9aaf-0408c77dcdee")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR?"
 			(at 152.4 54.61 0)
 			(effects
 				(font
@@ -4322,6 +4340,12 @@
 			(uuid "6d88ad7f-9b9c-4ce6-ab73-d1ebf123d0dc")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR016")
@@ -4340,7 +4364,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1cd8e4f2-7ba8-4d43-83c7-8423d1e9dc75")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR?"
 			(at 152.4 109.22 0)
 			(effects
 				(font
@@ -4388,6 +4412,12 @@
 			(uuid "1b849bb8-4f14-421d-84f0-c97b8c470869")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR04")
@@ -4406,7 +4436,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23b4975b-2c83-4f61-a904-fa64dd73acab")
-		(property "Reference" "D3"
+		(property "Reference" "D?"
 			(at 160.02 43.1799 90)
 			(effects
 				(font
@@ -4461,6 +4491,12 @@
 			(uuid "b8c349d3-71f3-4538-88b8-de1e55be27cd")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "D?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "D3")
@@ -4479,7 +4515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44db7c6c-9e44-4f97-ba83-2db1802008de")
-		(property "Reference" "Q2"
+		(property "Reference" "Q?"
 			(at 191.77 113.0299 0)
 			(effects
 				(font
@@ -4537,6 +4573,12 @@
 			(uuid "32aeca9e-063e-4449-8de2-bdd203e17dce")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "Q?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "Q2")
@@ -4554,7 +4596,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "48a144ca-897f-4d65-9e8e-026ac0f313ce")
-		(property "Reference" "R7"
+		(property "Reference" "R?"
 			(at 122.428 53.594 0)
 			(effects
 				(font
@@ -4606,6 +4648,12 @@
 			(uuid "89fdd1f0-ac58-46ff-a1cf-b5813b32e1e8")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "R7")
@@ -4623,7 +4671,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4b05f0b0-edb4-4a9f-8940-dbc1418152c0")
-		(property "Reference" "U3"
+		(property "Reference" "U?"
 			(at 130.4641 139.7 0)
 			(effects
 				(font
@@ -4722,6 +4770,12 @@
 			(uuid "138ccb8b-7d66-474f-9257-52de02aed784")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "U3")
@@ -4740,7 +4794,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52303d50-2d2c-4fe6-97f3-6f6ef654c72d")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR?"
 			(at 171.45 48.26 0)
 			(effects
 				(font
@@ -4788,6 +4842,12 @@
 			(uuid "d435ef61-e80f-40a0-8dd9-a617dc868ffe")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR010")
@@ -4806,7 +4866,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5497752a-406a-4068-8358-d2be24deeccd")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR?"
 			(at 110.49 64.77 0)
 			(effects
 				(font
@@ -4854,6 +4914,12 @@
 			(uuid "a1e6b77e-c32a-49b4-83c5-135d428f4390")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR07")
@@ -4872,7 +4938,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b03ab02-6b8c-4624-ae9c-cbb0a747dc71")
-		(property "Reference" "R5"
+		(property "Reference" "R?"
 			(at 168.9099 111.76 0)
 			(effects
 				(font
@@ -4924,6 +4990,12 @@
 			(uuid "c63c9b00-f732-453f-96a4-da2f0e37bd40")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "R5")
@@ -4942,7 +5014,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5baf87a2-2414-4b3b-b910-a50017170d9c")
-		(property "Reference" "U5"
+		(property "Reference" "U?"
 			(at 168.91 24.13 0)
 			(effects
 				(font
@@ -5005,6 +5077,12 @@
 			(uuid "ee5a681e-b3c8-46bf-84de-38eee6fe7059")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "U5")
@@ -5023,7 +5101,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62986755-83a8-4a66-abcc-fafd2e767370")
-		(property "Reference" "C4"
+		(property "Reference" "C?"
 			(at 142.24 95.2499 0)
 			(effects
 				(font
@@ -5075,6 +5153,12 @@
 			(uuid "743f88f0-43d0-4fb2-83a7-1c6c9180673d")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "C4")
@@ -5092,7 +5176,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "73fa2ce2-b8b6-4d45-8ada-a83562d38a3c")
-		(property "Reference" "C3"
+		(property "Reference" "C?"
 			(at 143.002 43.18 0)
 			(effects
 				(font
@@ -5144,6 +5228,12 @@
 			(uuid "8f15a186-be08-4664-9bbf-4116a6353246")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "C3")
@@ -5162,7 +5252,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74b92d1f-7592-4d5d-ae27-f70f29a74eac")
-		(property "Reference" "J1"
+		(property "Reference" "J?"
 			(at 63.5 69.85 90)
 			(effects
 				(font
@@ -5285,6 +5375,12 @@
 			(uuid "dcc72619-083e-47b9-ba17-e68811d36a22")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "J?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "J1")
@@ -5303,7 +5399,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7546fec5-e634-40f6-ad95-e61a6b9aa2c7")
-		(property "Reference" "R6"
+		(property "Reference" "R?"
 			(at 170.1799 137.16 0)
 			(effects
 				(font
@@ -5355,6 +5451,12 @@
 			(uuid "84a44a5c-fbfc-4aae-a413-6b35f4c6626c")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "R6")
@@ -5373,7 +5475,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ded27ce-bddc-4f96-bfb5-15132a10d172")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR?"
 			(at 128.27 146.05 0)
 			(effects
 				(font
@@ -5421,6 +5523,12 @@
 			(uuid "09854ea8-3af2-4087-8b7d-dc4a6928c717")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR013")
@@ -5439,7 +5547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "815d0745-c847-4adc-a327-195a87d0d4e4")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR?"
 			(at 138.43 109.22 0)
 			(effects
 				(font
@@ -5487,6 +5595,12 @@
 			(uuid "f3a26b68-45da-48cc-8320-cb28391d4000")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR014")
@@ -5505,7 +5619,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c6922ff-d4b1-48b5-b65a-9deaedd57c02")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR?"
 			(at 78.74 113.03 0)
 			(effects
 				(font
@@ -5553,6 +5667,12 @@
 			(uuid "975a11b3-542a-4f5f-90df-d3a60bd90d90")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR05")
@@ -5571,7 +5691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9167064-5dfd-42fc-b605-46ee22c0141e")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR?"
 			(at 194.31 35.56 0)
 			(effects
 				(font
@@ -5619,9 +5739,81 @@
 			(uuid "15cea6f4-399b-427b-ac7d-151e1517009f")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 233.68 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c721ba2c-a794-4f8b-b19e-82524acbfe26")
+		(property "Reference" "#PWR01"
+			(at 233.68 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 233.68 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 233.68 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 233.68 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "13110f9b-85f4-4163-ac21-6c61071b07e3")
+		)
+		(instances
+			(project ""
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -5636,7 +5828,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cd14a547-1d2d-4933-8290-d837b2b8d83a")
-		(property "Reference" "R8"
+		(property "Reference" "R?"
 			(at 114.046 54.102 0)
 			(effects
 				(font
@@ -5686,6 +5878,12 @@
 			(uuid "3ae1c542-6ef1-482a-925c-32502b612cd6")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "R8")
@@ -5704,7 +5902,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d76b06af-4696-475a-a9c3-5f7c986a4ed5")
-		(property "Reference" "C2"
+		(property "Reference" "C?"
 			(at 156.21 95.2499 0)
 			(effects
 				(font
@@ -5756,6 +5954,12 @@
 			(uuid "d0a6ceab-192b-47fd-a016-c018db52f879")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "C2")
@@ -5774,7 +5978,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db242066-597a-4e25-bcba-0cc30eea456c")
-		(property "Reference" "U4"
+		(property "Reference" "U?"
 			(at 235.8741 60.96 0)
 			(effects
 				(font
@@ -5941,6 +6145,12 @@
 			(uuid "4e9fa17e-dcf9-4b02-b2b1-9890e2b09040")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "U4")
@@ -5959,7 +6169,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc75b07b-7cef-4333-89cd-5b3b18ca8702")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR?"
 			(at 120.65 64.77 0)
 			(effects
 				(font
@@ -6007,6 +6217,12 @@
 			(uuid "837901f3-5832-4fd1-bbc6-90e5600d4d81")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR08")
@@ -6025,7 +6241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd7ca6f8-5bf1-4715-bf83-8e5b34a00fb0")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR?"
 			(at 157.48 54.61 0)
 			(effects
 				(font
@@ -6073,9 +6289,81 @@
 			(uuid "064fab6b-0b0a-4901-a5a6-60d91944f750")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 233.68 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1d99984-5486-456c-a9c8-0cf8a47d9cfc")
+		(property "Reference" "#PWR02"
+			(at 233.68 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 233.68 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 233.68 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 233.68 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7c0e6086-10ad-453c-9673-aecd84a43bc8")
+		)
+		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -6091,7 +6379,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f69ddc60-9fb7-4e14-8f7a-08081058b187")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR?"
 			(at 152.4 91.44 0)
 			(effects
 				(font
@@ -6139,6 +6427,12 @@
 			(uuid "cd1042fb-b1b0-4353-a232-095b46fbc334")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR03")
@@ -6157,7 +6451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc25fe3a-d144-4436-ba27-22cd6a3918da")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR?"
 			(at 71.12 113.03 0)
 			(effects
 				(font
@@ -6205,6 +6499,12 @@
 			(uuid "5f479f49-98e4-4f6e-836f-43ffb48107c8")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR06")
@@ -6223,7 +6523,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fcad69e4-463b-448a-b21e-893ddb012feb")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR?"
 			(at 194.31 48.26 0)
 			(effects
 				(font
@@ -6271,12 +6571,23 @@
 			(uuid "26382ebf-83d0-4a3b-a22a-609e9aec5f86")
 		)
 		(instances
+			(project "programmer"
+				(path "/36990da4-9bcd-415c-b216-9958e6eb89e3"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Electrium-Mobility-KiCad"
 				(path "/77cfd6b1-cf11-45d1-96c8-b00f1af024ba/4abe6688-8723-439a-80bf-c7c0ccf74c62"
 					(reference "#PWR012")
 					(unit 1)
 				)
 			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
 		)
 	)
 )
